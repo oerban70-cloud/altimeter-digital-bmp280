@@ -7,7 +7,7 @@ lengkap dengan tekanan dan suhu. Cocok untuk pendakian, paralayang,
 atau sekadar tahu rumahmu berapa meter di atas permukaan laut.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://www.youtube.com/shorts/eDvPN-s6NuQ
 
 ## Komponen
 
